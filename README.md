@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **yuk1uno/yuk1uno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#  🙋 Hello
+
+<table>
+  
+<tr><td>
+
+###  🤯 About Me
+
+<img align="right" width="88" src="https://image.yuki.uno/rest/5mUu0kK.jpeg" />
+
+<p>&emsp;&emsp;嗨，我是𝙔𝙪𝙠𝙞。热爱编程、听歌、摄影、睡觉、享受世界。</p>
+<p>&emsp;&emsp;想要自己“实现”一台计算机, 开发网站 + 网络协议 +......</p>
+<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+
+
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+
+</td></tr>
+
+<tr><td>
+
+
 ![Yuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuk1uno&theme=swift&show_icons=true)
