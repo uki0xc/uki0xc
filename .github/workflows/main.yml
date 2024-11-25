@@ -28,34 +28,4 @@ jobs:
           plugin_topics_limit: 0
         if: ${{ success() || failure() }}
 
-      - name: >-
-          🌸 Anilist watch list and reading list - Favorites anime and currently
-          watching
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.anilist.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_anilist: yes
-          plugin_anilist_medias: anime
-          plugin_anilist_sections: favorites, watching
-          plugin_anilist_limit: 1
-          output_action: none
-          delay: 120
-          user: yuk1uno
-          plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}
-      - name: 🌸 Anilist watch list and reading list - Favorites characters
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.anilist.characters.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_anilist: yes
-          plugin_anilist_sections: characters
-          plugin_anilist_limit_characters: 22
-          output_action: none
-          delay: 120
-          user: yuk1uno
-          plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}
+     
