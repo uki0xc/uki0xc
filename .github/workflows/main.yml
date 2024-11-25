@@ -18,12 +18,16 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-
       - name: Icons
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
-          filename: metrics.plugin.topics.icons.svg
+          filename: metrics.plugin.topics.svg
           token: NOT_NEEDED
           base: ""
           plugin_topics: yes
           plugin_topics_limit: 12
+          output_action: none
+          delay: 120
+          user: lowlighter
+          plugins_errors_fatal: yes
+        if: ${{ success() || failure() }}
