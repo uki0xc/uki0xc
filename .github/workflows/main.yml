@@ -5,7 +5,6 @@ on:
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -23,7 +22,6 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.topics.icons.svg
-          token:
           base: ""
           plugin_topics: yes
           plugin_topics_limit: 0
