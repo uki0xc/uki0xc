@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <tr><td>
 
 
-![Yuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuk1uno&theme=swift&show_icons=true)
+
 
 ## 📊 GitHub 数据统计
 
@@ -46,3 +46,8 @@ Here are some ideas to get you started:
 
 
 ![Metrics](/github-metrics.svg)
+
+
+
+
+![Yuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuk1uno&theme=swift&show_icons=true)
