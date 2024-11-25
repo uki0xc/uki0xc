@@ -28,6 +28,6 @@ jobs:
           plugin_topics_limit: 12
           output_action: none
           delay: 120
-          user: lowlighter
+          user: yuk1uno
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
