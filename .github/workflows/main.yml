@@ -26,5 +26,4 @@ jobs:
           base: ""
           plugin_topics: yes
           plugin_topics_limit: 0
-          plugin_topics_model: icons
         if: ${{ success() || failure() }}
