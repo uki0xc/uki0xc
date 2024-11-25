@@ -39,3 +39,10 @@ Here are some ideas to get you started:
 
 
 ![Yuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuk1uno&theme=swift&show_icons=true)
+
+## 📊 GitHub 数据统计
+
+
+
+
+![Metrics](/github-metrics.svg)
