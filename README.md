@@ -54,4 +54,4 @@ Here are some ideas to get you started:
 
 
 
-![Icons](/metrics.plugin.topics.icons.svg)
+![Icons](/metrics.plugin.topics.svg)
