@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="68" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="97" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,7 @@
                             <div class="label" title="Linux is an open source kernel.">linux</div>
                             <div class="label" title="Docker is a platform built for developers to build and run applications.">docker</div>
                             <div class="label" title="Node.js is a tool for executing JavaScript in a variety of environments.">node.js</div>
+                            <div class="label" title="">vue</div>
                             <div class="label" title="iOS is the operating system for Apple&amp;apos;s mobile products.">ios</div>
                         </div>
                     </section>
