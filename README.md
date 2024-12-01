@@ -35,9 +35,6 @@ Here are some ideas to get you started:
 
 </td></tr>
 
-<tr><td>
-
-
 </table>
 
 ## 📊 GitHub 数据统计
