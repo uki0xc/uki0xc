@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ###  🤯 About Me
 
-<img align="right" width="88" src="https://img.vki.im/file/1744811340508_image.jpg" />
+<img align="right" width="88" src="https://img.vki.im/file/1744811546712_image.jpg" />
 
 <p>&emsp;&emsp;嗨，我是𝙔𝙪𝙠𝙞。热爱编程、听歌、摄影、睡觉、享受世界。</p>
 <p>&emsp;&emsp;想要自己“实现”一台计算机, 开发网站 + 网络协议 +......</p>
