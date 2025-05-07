@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 
 
-![Yuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=uki0xc&theme=swift&show_icons=true)
+![Yuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=uki0xc&theme=swift&show_icons=true&count_private=true)
 
 
 
