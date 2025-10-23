@@ -20,8 +20,8 @@
                             <div class="label" title="JavaScript (JS) is a lightweight interpreted programming language with first-class functions.">javascript</div>
                             <div class="label" title="Java is an object-oriented programming language used mainly for web, desktop, embedded devices and mobile applications.">java</div>
                             <div class="label" title="Linux is an open source kernel.">linux</div>
-                            <div class="label" title="Docker is a platform built for developers to build and run applications.">docker</div>
                             <div class="label" title="Node.js is a tool for executing JavaScript in a variety of environments.">node.js</div>
+                            <div class="label" title="Docker is a platform built for developers to build and run applications.">docker</div>
                             <div class="label" title="Vue.js is a JavaScript framework for building interactive web applications.">vue.js</div>
                             <div class="label" title="iOS is the operating system for Apple&amp;apos;s mobile products.">ios</div>
                         </div>
